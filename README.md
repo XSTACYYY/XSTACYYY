@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @XSTACYYY
-- 👀 I’m interested in Game Dev, Web Development, and AI model development
-- 🌱 I’m currently learning how to efficiently build and train AI models
-- 💞️ I’m looking to collaborate on Game Dev projects, Web Design projects, and AI Model Development projects
 - 📫 How to reach me | Discord Username: _xstacy
 
 <!---
